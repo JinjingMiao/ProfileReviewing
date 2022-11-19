@@ -23,7 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.10",
     "request": "^2.88.2",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "wepack": "0.0.1"
   },
   "devDependencies": {
